@@ -1,2 +1,4 @@
 # hello-world
-Hellow-world repository from the tutorial
+Hello Humans !
+
+I am new on GitHub and I try to understand this new tool, it looks great!
